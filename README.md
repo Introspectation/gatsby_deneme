@@ -49,6 +49,7 @@ Connect your GitHub repository to Netlify. Netlify will automatically build and 
 This method leverages continuous deployment, significantly simplifying the update process.
 
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
+https://guileless-salamander-ebcf92.netlify.app/ HERE IS THE LINK
 
 NOT THIS IS HOMEWORK NOT A REAL PROJECT
 
